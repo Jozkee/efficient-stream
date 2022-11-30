@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>stream_redesign_netcore31</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="..\Common\EfficientStream.cs" Link="EfficientStream.cs" />
+    <Compile Include="..\Common\EfficientStream2.cs" Link="EfficientStream2.cs" />
+  </ItemGroup>
+
+</Project>
