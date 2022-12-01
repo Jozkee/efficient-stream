@@ -1,8 +1,0 @@
-C:\consoleapps\stream-redesign\stream-redesign-main\stream-redesign-netfx462\bin\Debug\stream-redesign-netfx462.exe.config
-C:\consoleapps\stream-redesign\stream-redesign-main\stream-redesign-netfx462\bin\Debug\stream-redesign-netfx462.exe
-C:\consoleapps\stream-redesign\stream-redesign-main\stream-redesign-netfx462\bin\Debug\stream-redesign-netfx462.pdb
-C:\consoleapps\stream-redesign\stream-redesign-main\stream-redesign-netfx462\obj\Debug\stream-redesign-netfx462.csproj.AssemblyReference.cache
-C:\consoleapps\stream-redesign\stream-redesign-main\stream-redesign-netfx462\obj\Debug\stream-redesign-netfx462.csproj.SuggestedBindingRedirects.cache
-C:\consoleapps\stream-redesign\stream-redesign-main\stream-redesign-netfx462\obj\Debug\stream-redesign-netfx462.csproj.CoreCompileInputs.cache
-C:\consoleapps\stream-redesign\stream-redesign-main\stream-redesign-netfx462\obj\Debug\stream-redesign-netfx462.exe
-C:\consoleapps\stream-redesign\stream-redesign-main\stream-redesign-netfx462\obj\Debug\stream-redesign-netfx462.pdb

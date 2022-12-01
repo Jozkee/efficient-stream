@@ -1,6 +1,0 @@
-C:\consoleapps\stream-redesign-main\stream-redesign-netfx20\bin\Debug\stream-redesign-netfx20.pdb
-C:\consoleapps\stream-redesign-main\stream-redesign-netfx20\obj\Debug\1-stream-redesign-netfx20.csproj.AssemblyReference.cache
-C:\consoleapps\stream-redesign-main\stream-redesign-netfx20\obj\Debug\1-stream-redesign-netfx20.csproj.CoreCompileInputs.cache
-C:\consoleapps\stream-redesign-main\stream-redesign-netfx20\obj\Debug\stream-redesign-netfx20.pdb
-C:\consoleapps\stream-redesign-main\stream-redesign-netfx20\bin\Debug\stream-redesign-netfx20.dll
-C:\consoleapps\stream-redesign-main\stream-redesign-netfx20\obj\Debug\stream-redesign-netfx20.dll
