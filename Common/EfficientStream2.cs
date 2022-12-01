@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Common
 {
-    internal abstract class EfficientStream2 : EfficientStream
+    public abstract class EfficientStream2 : EfficientStream
     {
         // seal the methods that DO NOT align with best practices, we will provide an impl. that aligns with efficiency according to the newest paradigms in Stream.
         public sealed override int Read(byte[] buffer, int offset, int count) { throw null; }

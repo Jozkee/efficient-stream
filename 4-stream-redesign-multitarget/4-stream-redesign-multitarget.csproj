@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netcoreapp3.1;net462</TargetFrameworks>
+    <RootNamespace>_4_stream_redesign_multitarget</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup Condition=" '$(TargetFramework)' == 'netcoreapp3.1' ">
+    <ProjectReference Include="..\stream-redesign-netcore31\3-stream-redesign-netcore31.csproj" />
+  </ItemGroup>
+
+	<ItemGroup Condition=" '$(TargetFramework)' == 'net462' ">
+		<ProjectReference Include="..\stream-redesign-netfx462\2-stream-redesign-netfx462.csproj" />
+	</ItemGroup>
+
+</Project>

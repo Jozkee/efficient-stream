@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Common
 {
-    internal abstract class EfficientStream : Stream
+    public abstract class EfficientStream : Stream
     {
         // seal the methods that DO NOT align with best practices, we will provide an impl. that aligns with efficiency according to the newest paradigms in Stream.
         public sealed override IAsyncResult BeginRead(byte[] buffer, int offset, int count, AsyncCallback callback, object state) { throw null; }

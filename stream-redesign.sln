@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-stream-redesign-netfx462"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3-stream-redesign-netcore31", "stream-redesign-netcore31\3-stream-redesign-netcore31.csproj", "{77CBB3B3-7E3C-4822-94DC-042F46EF9BEC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-stream-redesign-multitarget", "4-stream-redesign-multitarget\4-stream-redesign-multitarget.csproj", "{D8FC571E-6DA9-4FD2-96CF-593B834F1855}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{77CBB3B3-7E3C-4822-94DC-042F46EF9BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77CBB3B3-7E3C-4822-94DC-042F46EF9BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77CBB3B3-7E3C-4822-94DC-042F46EF9BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8FC571E-6DA9-4FD2-96CF-593B834F1855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8FC571E-6DA9-4FD2-96CF-593B834F1855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8FC571E-6DA9-4FD2-96CF-593B834F1855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8FC571E-6DA9-4FD2-96CF-593B834F1855}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
