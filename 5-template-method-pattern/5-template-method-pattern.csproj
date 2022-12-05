@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>_5_template_method_pattern</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!--<Compile Include="..\Common\EfficientStream.cs" Link="EfficientStream.cs" />
+    <Compile Include="..\Common\EfficientStream2.cs" Link="EfficientStream2.cs" />-->
+  </ItemGroup>
+
+</Project>

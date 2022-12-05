@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-stream-redesign-netfx462"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3-stream-redesign-netcore31", "3-stream-redesign-netcore31\3-stream-redesign-netcore31.csproj", "{443D24CE-F77A-49FB-85D0-A5A601C46FF5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-template-method-pattern", "5-template-method-pattern\5-template-method-pattern.csproj", "{A8DDAFEC-33BA-4BF9-A3D6-F252347C6589}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{443D24CE-F77A-49FB-85D0-A5A601C46FF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{443D24CE-F77A-49FB-85D0-A5A601C46FF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{443D24CE-F77A-49FB-85D0-A5A601C46FF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8DDAFEC-33BA-4BF9-A3D6-F252347C6589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8DDAFEC-33BA-4BF9-A3D6-F252347C6589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8DDAFEC-33BA-4BF9-A3D6-F252347C6589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8DDAFEC-33BA-4BF9-A3D6-F252347C6589}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
